@@ -1,1 +1,1 @@
-# This is a new file\n\nCreated by `create_file()`
+# This is an updated file\n\nUpdated by `update_file()`
