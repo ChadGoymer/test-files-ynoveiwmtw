@@ -1,1 +1,0 @@
-# This is an updated file\n\nUpdated by `update_file()`
