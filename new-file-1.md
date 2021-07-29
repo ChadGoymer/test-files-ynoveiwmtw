@@ -1,0 +1,1 @@
+# This is a new file\n\nCreated by `create_file()`
